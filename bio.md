@@ -1,3 +1,3 @@
 Daniel Olmedo
 
-![Foto](Imagen examen 3.png)
+![image](Imagen examen 3.png)
